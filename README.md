@@ -1,10 +1,10 @@
  
 
-## Hello there 👋 I'm Arthur, a frontend dev looking for an internship or full-time contract ! 🤘🏼
+# Hello there 👋 I'm Arthur, a frontend dev looking for an internship or full-time contract ! 🤘🏼
 
 💥 I love webdesign, JAMstack, css from scratch, animations, interactions, pizza, street food & tattoos 🍕
 
-🐦 Twitter [@SaltyArthur](https://twitter.com/SaltyArthur) <br/> 👨🏻‍💻 LinkedIn [@ArthurSallé](https://www.linkedin.com/in/arthur-sall%C3%A9/)
+## 🐦 Twitter [@SaltyArthur](https://twitter.com/SaltyArthur) <br/> 👨🏻‍💻 LinkedIn [@ArthurSallé](https://www.linkedin.com/in/arthur-sall%C3%A9/)
    
 
 - 🔭 I’m currently working with ReactJS
