@@ -4,7 +4,7 @@
 
 💥 I love design, JAMstack, css from scratch, animations, interactions, pizza & street food 🍕🌭
 
-💬 twitter @SaltyArthur LinkedIn @arthur-sallé
+💬 twitter @https://twitter.com/SaltyArthur LinkedIn @https://www.linkedin.com/in/arthur-sall%C3%A9/
 
 
 <!--
