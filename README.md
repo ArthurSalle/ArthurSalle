@@ -1,10 +1,10 @@
-# Hello there 👋
+ 
 
-## I'm Arthur, a frontend dev looking for an intership or full-time contract ! 🤘🏼
+## Hello there 👋 I'm Arthur, a frontend dev looking for an intership or full-time contract ! 🤘🏼
 
-I love design, JAMstack, css from scratch, animations and interactions 👨🏻‍💻
+💥 I love design, JAMstack, css from scratch, animations, interactions, pizza & street food 🍕🌭
 
-⚡ Love pizza & street food 🤪❤️
+💬 twitter @SaltyArthur LinkedIn @arthur-sallé
 
 
 <!--
