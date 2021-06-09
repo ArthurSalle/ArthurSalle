@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+
+## I'm Arthur, a frontend dev looking for an intership or full-time contract ! 🤘🏼
+
+# I love design, JAMstack, css from scratch, animations and interactions 👨🏻‍💻
+
+⚡ Love pizza & street food 🤪❤️
+
 
 <!--
 **ArthurSalle/ArthurSalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
