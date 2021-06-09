@@ -2,22 +2,12 @@
 
 ## Hello there 👋 I'm Arthur, a frontend dev looking for an internship or full-time contract ! 🤘🏼
 
-💥 I love design, JAMstack, css from scratch, animations, interactions, pizza & street food 🍕🌭
+💥 I love design, JAMstack, css from scratch, animations, interactions, pizza, street food & tattoos 🍕
 
-💬 twitter @https://twitter.com/SaltyArthur LinkedIn @https://www.linkedin.com/in/arthur-sall%C3%A9/
+💬 Twitter @https://twitter.com/SaltyArthur LinkedIn @https://www.linkedin.com/in/arthur-sall%C3%A9/
 
-
-<!--
-**ArthurSalle/ArthurSalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ReactJS,
+- 🌱 I’m currently learning TypeScript, JAMstack with NextJS, AnimeJS, GSAP,
+- 👯 I’m looking to collaborate on funny, meaningful & nice designed projects,
+- 🤔 I’m looking for help to find an internship or a job,
+- 💬 Ask me about what I love, what I want to work on & much more !
