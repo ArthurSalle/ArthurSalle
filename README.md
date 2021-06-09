@@ -4,8 +4,9 @@
 
 💥 I love webdesign, JAMstack, css from scratch, animations, interactions, pizza, street food & tattoos 🍕
 
-💬 Twitter [@SaltyArthur](https://twitter.com/SaltyArthur) 
-   LinkedIn [@ArthurSallé](https://www.linkedin.com/in/arthur-sall%C3%A9/)
+🐦 Twitter [@SaltyArthur](https://twitter.com/SaltyArthur) 
+👨🏻‍💻 LinkedIn [@ArthurSallé](https://www.linkedin.com/in/arthur-sall%C3%A9/)
+   
 
 - 🔭 I’m currently working with ReactJS
 - 🌱 I’m currently learning TypeScript, JAMstack with NextJS, AnimeJS & GSAP
