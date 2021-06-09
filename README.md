@@ -1,6 +1,6 @@
  
 
-## Hello there 👋 I'm Arthur, a frontend dev looking for an intership or full-time contract ! 🤘🏼
+## Hello there 👋 I'm Arthur, a frontend dev looking for an internship or full-time contract ! 🤘🏼
 
 💥 I love design, JAMstack, css from scratch, animations, interactions, pizza & street food 🍕🌭
 
