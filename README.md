@@ -3,7 +3,7 @@
 ## Hello there 👋 I'm Arthur, a frontend dev looking for an internship or full-time contract ! 🤘🏼
 
 
-### 💥 I love webdesign, JAMstack, css from scratch, animations, interactions, pizzas, street food & tattoos 🍕
+### I love webdesign, JAMstack, css from scratch, animations, interactions, pizzas, street food & tattoos 🍕
 
 #### 🚨 Portfolio in progress #WIP 🚧🏗
 
