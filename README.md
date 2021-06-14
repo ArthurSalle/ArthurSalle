@@ -8,9 +8,8 @@
 #### 🚨 Portfolio in progress #WIP 🚧🏗
 
 - 🔭 I’m currently working with ReactJS
-- 🌱 I’m currently learning TypeScript, JAMstack with NextJS, AnimeJS & GSAP
+- 🌱 I’m currently learning TypeScript, JAMstack with NextJS & Gatsby, AnimeJS & GSAP
 - 👯 I’m looking to collaborate on funny, meaningful & nice designed projects
-- 🤔 I’m looking for help to find an internship or a job
 - 💬 Ask me about what I love, what I want to work on & much more !
 
 ### 🐦 Twitter [@SaltyArthur](https://twitter.com/SaltyArthur) <br/> 👨🏻‍💻 LinkedIn [@ArthurSallé](https://www.linkedin.com/in/arthur-sall%C3%A9/)
