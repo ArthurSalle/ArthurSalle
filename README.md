@@ -1,6 +1,6 @@
  
 
-## Hello there ![](https://tenor.com/bEAlI.gif) I'm Arthur, a frontend dev looking for an internship or full-time contract ! 🤘🏼
+## Hello there ![👋](https://tenor.com/bEAlI.gif) I'm Arthur, a frontend dev looking for an internship or full-time contract ! 🤘🏼
 
 
 ### I love webdesign, JAMstack, css from scratch, animations, interactions, pizzas, street food & tattoos 🍕
