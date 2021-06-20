@@ -10,6 +10,6 @@
 - 🔭 I’m currently working with ReactJS
 - 🌱 I’m currently learning TypeScript, JAMstack with NextJS & Gatsby, AnimeJS & GSAP
 - 👯 I’m looking to collaborate on funny, meaningful & nice designed projects
-- 💬 Ask me about what I love, what I want to work on & much more !
+- 💬 Ask me about what I love & much moooore !
 
 ### 🐦 Twitter [@SaltyArthur](https://twitter.com/SaltyArthur) <br/> 👨🏻‍💻 LinkedIn [@ArthurSallé](https://www.linkedin.com/in/arthur-sall%C3%A9/)
