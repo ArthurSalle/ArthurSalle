@@ -5,8 +5,6 @@
 
 ### I love webdesign, JAMstack, css from scratch, animations, interactions, pizzas, street food & tattoos 🍕
 
-#### 🚨 Portfolio in progress #WIP 🚧🏗
-
 - 🔭 I’m currently working with ReactJS
 - 🌱 I’m currently learning TypeScript, JAMstack with NextJS & Gatsby, AnimeJS & GSAP
 - 👯 I’m looking to collaborate on funny, meaningful & nice designed projects
