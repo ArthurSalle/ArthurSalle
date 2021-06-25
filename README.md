@@ -1,6 +1,6 @@
  
 
-## Hello there 👋🏼 I'm Arthur, a frontend dev! 🤘🏼
+# Hello there 👋🏼 I'm Arthur, a frontend dev! 🤘🏼
 
 ### I love webdesign, JAMstack, css from scratch, animations, interactions, pizzas, street food & tattoos 🍕
 
